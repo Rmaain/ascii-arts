@@ -1,9 +1,4 @@
-	<style type="text/css">
-	p{
 
-		color: rgb(255, 0, 0);
-	}
-	</style>
 ```
         . \
       .'-    \
@@ -114,3 +109,4 @@ OCTAVIOS
 
 
 ```
+<p style="color: red;">test</p>
